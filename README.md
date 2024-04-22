@@ -1,2 +1,2 @@
-# Android-Basic-Application
+# Basic Android Application
 First Application created in the Udemy course, "Android App Development in 34 Hours"
